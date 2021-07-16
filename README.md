@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajatsaini89
+- 👋 Hi, I’m Rajat Saini
 - 👀 I’m interested in .NET
 - 🌱 I’m currently learning devops on azure
 - 💞️ I’m looking to collaborate on opensource project which are for greater good of the community
